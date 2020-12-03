@@ -1,5 +1,8 @@
 tmp*
 samples/
+cifar10/
+*/.idea/workspace.xml
+*/.idea/dictionaries
 *pyc
 _cache*
 run.sh
